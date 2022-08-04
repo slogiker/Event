@@ -4,7 +4,7 @@ For better expirience run the program in fullscreen.
 
 
 ## Files
-- If u want to inspect code open **.cpp** file.
+- If u want to inspect code open **.c** file.
 - If u want to run the code open **.exe** file.
 - For binary numbers nad letters open **.txt** file.
 
